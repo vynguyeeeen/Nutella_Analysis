@@ -1,4 +1,4 @@
-# Text Analysis of Nutella 
+# Text Analysis for Nutella 
 Completed on Sun Feb 14, 2021
 
 **Contributors**:
